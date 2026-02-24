@@ -5,3 +5,5 @@ nav_title: "Order Service"
 framework: mkdocs
 source_dir: docs/
 output_dir: site/
+pages: 8
+diataxis: ["how-to", "explanation", "reference", "tutorial"]
