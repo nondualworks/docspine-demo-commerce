@@ -5,5 +5,4 @@ nav:
   - Home: index.md
   - Reference: reference/
   - How-To: how-to/
-strict: true
 docs_dir: docs
