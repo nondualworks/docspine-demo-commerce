@@ -1,0 +1,7 @@
+team: fulfillment
+domain: checkout
+service: order-service
+nav_title: "Order Service"
+framework: mkdocs
+source_dir: docs/
+output_dir: site/

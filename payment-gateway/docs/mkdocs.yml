@@ -1,0 +1,8 @@
+site_name: Payment Gateway
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Reference: reference/
+  - How-To: how-to/
+strict: true
